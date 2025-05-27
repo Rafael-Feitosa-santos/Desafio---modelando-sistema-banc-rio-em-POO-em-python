@@ -65,4 +65,5 @@ Clone este repositório:
 ```sh
 git clone https://github.com/Rafael-Feitosa-santos/Desafio---modelando-sistema-banc-rio-em-POO-em-python.git
 ```
+python sistema_bancario.py
 
